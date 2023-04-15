@@ -1,0 +1,4 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+Dataset,HDFS,Hadoop,Spark,Zookeeper,OpenStack,BGL,HPC,Thunderbird,Windows,Linux,Mac,Andriod,HealthApp,Apache,OpenSSH,Proxifier
+threshold,0.75,0.75,0.75,0.75,0.75,0.75,0.75,0.75,0.75,0.75,0.75,0.75,0.75,0.75,0.75,0.75
+Accuracy_PA,1.0,0.988,1.0,0.9945,1.0,0.992,0.9465,0.96,1.0,0.8165,0.9265,0.934,1.0,1.0,1.0,0.5265
